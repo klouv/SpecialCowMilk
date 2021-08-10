@@ -17,7 +17,6 @@ import org.bukkit.inventory.ItemStack;
 
 
 public class CowMilkListener implements Listener {
-
     @EventHandler
     public void onClikEntity(PlayerInteractAtEntityEvent event) {
 
