@@ -1,0 +1,5 @@
+name: KlouvCowMilk
+main: klouvCowMilk.CowMilk
+version: 1.0
+commands:
+  spawnCow: {}
